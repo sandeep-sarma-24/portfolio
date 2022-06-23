@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Eurostile Round';
+    src: local('Eurostile Round Regular'), local('Eurostile-Round-Regular'),
+        url('EurostileRound-Regular.woff2') format('woff2'),
+        url('EurostileRound-Regular.woff') format('woff'),
+        url('EurostileRound-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
